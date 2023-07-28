@@ -22,6 +22,9 @@
     "preinstall": "npx only-allow yarn"
   },
   "dependencies": {
+    "@clockwork-xyz/sdk": "^0.3.4",
+    "@gumhq/react-sdk": "^3.0.1",
+    "@gumhq/ui-components": "^2.0.4",
     "@hookform/resolvers": "^3.1.1",
     "@next/bundle-analyzer": "^13.3.0",
     "@radix-ui/react-aspect-ratio": "^1.0.3",
